@@ -14,10 +14,10 @@ The system is distributed across four physical machines connected via a **Tailsc
 ![Distributed AI Layout](https://github.com/Krutik-Vanjara/gen_ai_llm_council/blob/main/web1.excalidraw%20(3).png)
 | Role | Name | IP Address | OS | Model |
 | --- | --- | --- | --- | --- |
-| **👑 Chairman** | `abhi` | `100.114.119.33` | Windows | `llama3.2:3b` |
-| **⚖️ Council 1** | `JD` | `100.64.243.5` | Windows | `gemma2:2b` |
-| **⚖️ Council 2** | `Krutik` | `100.123.209.93` | Linux (WSL2) | `llama3.2:1b` |
-| **⚖️ Council 3** | `Samuel` | `100.120.97.23` | Windows | `qwen2.5:3b` |
+| **👑 Chairman** | `Abhisek` | `100.114.119.33` | Windows | `llama3.2:3b` |
+| **⚖️ Council 1** | `Jaydeep Roy` | `100.64.243.5` | Windows | `gemma2:2b` |
+| **⚖️ Council 2** | `Krutik Vanjara` | `100.123.209.93` | Linux (WSL2) | `llama3.2:1b` |
+| **⚖️ Council 3** | `Samuel Koshy` | `100.120.97.23` | Windows | `qwen2.5:3b` |
 
 ## ⚙️ Council Workflow
 
@@ -82,5 +82,5 @@ streamlit run frontend/dashboard.py
 
 ---
 
-**Team Members:** Abhi, JD, Krutik, Samuel | **TD Group:** [Your Group Name]
+**Team Members:** Abhishek Gupta, Jaydeep Roy, Krutik Vanjara, Samuel Koshy | **TD Group:** Killer
 
