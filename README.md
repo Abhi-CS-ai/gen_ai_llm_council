@@ -53,7 +53,10 @@ llm-council-local/
 
 ### 1. Node Preparation
 
-On every machine, ensure **Ollama** is installed and serving on the network interface:
+On every machine, ensure **Ollama** is installed. For installing Ollama on **Windows**, click on there **https://ollama.com/** and for **Linux** run that command :
+**curl -fsSL https://ollama.ai/install.sh | sh**
+
+Run these commands for serving on the network interface:
 
 * **Windows:** `$env:OLLAMA_HOST="0.0.0.0:11434"; ollama serve`
 * **Linux:** `OLLAMA_HOST=0.0.0.0:11435 ollama serve`
